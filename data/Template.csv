@@ -1,0 +1,50 @@
+"""inputDir""","""YCC_build37""","""CEU"""
+"""format""","""geno""","""geno"""
+"""inputDirLoc""","""YCC_build37""","""1KG_build37"""
+"""equaliseGroup""",Yhaplo1,Yhaplo1
+"""emissionGroup""","""YCC""","""CEUY"""
+"""noCopies""",1,1
+"""restrictKb""","""0;0""","""0;0"""
+"""backgroundCount""",2,2
+"""softenHapMap""",0.00E+00,0.00E+00
+"""regionsToInclude""","""all""","""all"""
+"""regionsToExclude""","""null""","""null"""
+"""strand""",null,"""+"""
+"""allowSharedIds""","""null""","""null"""
+"""toJoin""","""null""","""null"""
+"""indexToRestrict""",FALSE,FALSE
+"""maxIndiv""",10000,10000
+"""toDel""","""null""","""null"""
+"""toInclude""",“all”,"""null"""
+"""platesToInclude""","""all""","""all"""
+"""phenoToInclude""","""all""","""POP~CEU"""
+"""var_thresh""",1,1
+"""plotI""",TRUE,TRUE
+"""restrictMarker""","""null""","""null"""
+"""gc""",FALSE,FALSE
+"""loess""",FALSE,FALSE
+"""median_correction""",FALSE,FALSE
+"""plotType""","""XYLineAndShapeRenderer;x;noline""","""XYLineAndShapeRenderer;x;noline"""
+"""rOutlier""","""null""","""null"""
+"""weight""",1,1
+"""mixCoeff""",0,0
+"""standardVar""",FALSE,FALSE
+"""splitbyPheno""","""null""","""null"""
+"""basisNme""","""C;lCN;lCN2;BAF;BAF1""","""C;lCN;lCN2;BAF;BAF1"""
+"""r_var""","""0.8; 0.35~0""","""0.8; 0.35~0"""
+"""r_mean""","""-5; -1.0~0.433""","""-5; -1.0~0.433"""
+"""b_mean""","""0; 0~0~0~1""","""0; 0~0~0~1"""
+"""b_var1""","""0; 0.0005~0~0~0~-0.5""","""0; 0.0005~0~0~0~-0.5"""
+"""r_train""","""1e16;1;1;1;1;1""","""1e16;1;1;1;1;1"""
+"""r_trainVar""","""1e16;1;1;1;1;1""","""1e16;1;1;1;1;1"""
+"""b_train""","""1e16;1e16;1e16;1e16;1e16;1e16""","""1e16;1e16;1e16;1e16;1e16;1e16"""
+"""b_trainVar""","""1e16;1e16;1e16;1e16;1e16;1""","""1e16;1e16;1e16;1e16;1e16;1"""
+"""cnToSplit""","""0;1~2~3~4~5~6""","""0;1~2~3~4~5~6"""
+"""beta""",FALSE,FALSE
+"""minR""",-5,-5
+"""maxR""",5,5
+"""minB""",0,0
+"""maxB""",1,1
+"""cnvP""","""null""","""null"""
+"""modify0""","""0;1;2""","""0;1;2"""
+"""probeOnly""",TRUE,TRUE

@@ -1,0 +1,12 @@
+lc1.dp.external.Fastphase:
+before simple emissions
+lc1.dp.external.Fastphase$TrainingElement:
+log prob is -773.8650352158182 at 0 with 10 states 932 at 0.0100	1.00e+10	1.00e-05	1.00e-05	 1.00	1.00e+10
+lc1.dp.external.Fastphase$TrainingElement:
+log prob is -773.8650352158182 at 0 with 10 states 932 at   NaN	 0.00	 0.00	 0.00	  NaN	  NaN
+lc1.dp.external.Fastphase:
+WRITING HMM /Users/fanzhang/Downloads/YHap_v0.52/rundir/test/./newres_1_Y_0_25mb/results_hmm.txt
+lc1.dp.external.Fastphase:
+finishing wrinting hmm
+lc1.dp.external.Fastphase$2:
+sampling from HMM
