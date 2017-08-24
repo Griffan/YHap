@@ -175,7 +175,7 @@ Notice that when specifying data.csv, the location should be adjusted accordingl
 
 fanzhang@umich.edu
 
-###LICENSE
+## LICENSE
 
 The full YHap package is distributed under LGPL License.
 
