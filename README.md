@@ -37,7 +37,8 @@ There is a one stop running script:
 ```
 sh prepare.data.and.run.sh VCFFilePath dataAlias
 ```
-Note: script will use dataAlias as dir name to create tmp, so please don't include any "/" within dataAlias
+Note: script will use dataAlias as dir name to create tmp, so please don't include any "/" within dataAlias.
+
 After the whole process done, you would find your result in 
  
 ```
